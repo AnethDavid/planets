@@ -2,6 +2,6 @@ Day_2_commands_afternoon
 *.dat
 results/plots
 *.data
-!final!.data
+!final.data
 
 
